@@ -1,9 +1,9 @@
-#California House Price Predictor (Frontend)
+# California House Price Predictor (Frontend)
 
 This is the frontend of the California House Price Prediction web app — built using React and Material UI.
 It provides an elegant, interactive interface where users can enter housing details (like location, income, rooms, and proximity to the ocean) and instantly predict the median house value using the backend model.
 
-##Features
+## Features
 
 1. Input form for all housing features
 
@@ -15,7 +15,7 @@ It provides an elegant, interactive interface where users can enter housing deta
 
 5. Live connection with the Flask backend hosted on Render
 
-##Tech Stack
+## Tech Stack
 
 1. React (Frontend Framework)
 
