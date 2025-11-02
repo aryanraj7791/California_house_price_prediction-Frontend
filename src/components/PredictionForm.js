@@ -27,7 +27,7 @@ export default function PredictionForm() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const res = await axios.post("http://localhost:5000/predict", form);
+            const res = await axios.post("https://california-house-price-prediction-r5y6.onrender.com/predict", form);
             setPrediction(res.data.predicted_price.toFixed(2));
         } catch(err) {
             console.error(err);
