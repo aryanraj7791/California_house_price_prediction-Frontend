@@ -28,3 +28,11 @@ It provides an elegant, interactive interface where users can enter housing deta
 5. Flask + scikit-learn (Backend Model hosted on Render)
 
 <img width="1919" height="1033" alt="frontend image" src="https://github.com/user-attachments/assets/17b5d217-47d1-466a-a642-66b421edf454" />
+
+## Live Demo
+Link : https://california-house-price-predict-aryan.netlify.app/
+
+## Author
+
+#### Aryan Raj
+Data Science | Machine Learning | Full Stack Developer
